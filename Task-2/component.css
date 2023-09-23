@@ -1,0 +1,26 @@
+/* styles.css */
+.date-picker {
+    display: inline-block;
+    font-family: Arial, sans-serif;
+}
+
+.date-picker input[type="text"] {
+    padding: 5px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    font-size: 16px;
+}
+
+.date-picker button {
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    padding: 5px 10px;
+    font-size: 16px;
+    cursor: pointer;
+}
+
+.date-picker button:hover {
+    background-color: #0056b3;
+}
